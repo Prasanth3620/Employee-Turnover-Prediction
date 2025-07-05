@@ -54,7 +54,5 @@ After training all the models, I found that Random Forest, XGBoost, and CatBoost
 
 - Employees with low satisfaction levels and high average monthly hours are more likely to leave.
 - Number of projects and evaluation scores also play a role in attrition.
-- Advanced ensemble models like XGBoost and CatBoost not only performed well but also provided meaningful feature importance.
-
-## File Structure
+- Even though this is a classification task, Regression method is opted such that the probability provides the better view on the 'risk' of employee leaving than the classification analysis
 
